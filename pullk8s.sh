@@ -75,5 +75,5 @@ echo
 echo "Examples:"
 echo "  pullk8s pull k8s.gcr.io/pause:3.6 --microk8s"
 echo "  pullk8s pull gcr.io/google_containers/etcd:2.0.12"
-echo "  pullk8s check --microk8"
+echo "  pullk8s check --microk8s"
 exit 1
